@@ -7,45 +7,41 @@
 Este repositorio tiene como objetivo almacenar los recursos y avances de los ejercicios realizados en el curso, los cuales abarcan conceptos fundamentales de programación utilizando diferentes lenguajes y herramientas.  
 
 ## Contenido  
--📂-Clase-1-Presentación asignatura
-    -|----Presentación de la asignatura
--📂-Clase-2-Ejercicios
-    -|----Ejercicios prácticos
--📂-Clase 3 Actividad
-    -|----Actividad sumativa de práctica
--📂-Clase 4
-    -|----Ejercicios prácticos
--📂-Clase 5
-    -|----Clases anidadas
--📂-Clase 6
-    -|----Actividad práctica 
--📂-Clase 7 
-    -|----Ejercicios float y Pseint
-📂-Clase 8 Calculadora
-    -|----Ejercicio de calculadora
--📂-Clase 9 Verificación numero
-    -|----Ejercicio de verificación número
--📂-Clase 10 Autenticación usuario
-    -|----Ejercicios en python
--📂-Clase 11 Ejercicios python
-    -|----Ejercicios en python
--📂-Clase 12 Python
-    -|----Ejercicios en python de "coche"
--📂-Clase 13 Ejercicios Python
-    -|----Ejercicios en python de clases
--📂-Clase 14 Ejercicios Python
-    -|----Ejercicios en python
--📂-Clase 15 Ejercicios Python
-    -|----Repaso de funciones
--📂- Clase 16 Ejercicios Python
-    -|----Ejercicios modelo para actividad
 
--📂- Código
-    -|----Carpeta con códigos varios
--📂- Prueba
-    -|----Carpeta de guardado de evaluaciones y pruebas
--📂- Recursos
-    -|----Recursos de la asignatura
+## 📂 Estructura del Repositorio
+
+- 📂 Clase 10: Autenticación usuario  
+  - |---- Ejercicios en Python
+
+- 📂 Clase 11: Ejercicios Python  
+  - |---- Ejercicios en Python
+
+- 📂 Clase 12: Python  
+  - |---- Ejercicios en Python de "coche"
+
+- 📂 Clase 13: Ejercicios Python  
+  - |---- Ejercicios en Python de clases
+
+- 📂 Clase 14: Ejercicios Python  
+  - |---- Ejercicios en Python
+
+- 📂 Clase 15: Ejercicios Python  
+  - |---- Repaso de funciones
+
+- 📂 Clase 16: Ejercicios Python  
+  - |---- Ejercicios modelo para actividad
+
+---
+### 📂 Carpetas Adicionales
+
+- 📂 Código  
+  - |---- Carpeta con códigos varios
+
+- 📂 Prueba  
+  - |---- Carpeta de guardado de evaluaciones y pruebas
+
+- 📂 Recursos  
+  - |---- Recursos de la asignatura
 
 ## Tecnologías Utilizadas 
 
